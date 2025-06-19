@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VFD:FIP10B13A"
+		(property "Footprint" "FIP10B13A:FIP10B13A"
 			(at 0 -38.862 0)
 			(effects
 				(font
