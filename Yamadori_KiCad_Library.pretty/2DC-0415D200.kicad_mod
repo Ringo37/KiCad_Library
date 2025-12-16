@@ -162,14 +162,14 @@
 		(at -2.5 -3.5)
 		(size 2.2 2.2)
 		(drill 2.2)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask")
 		(uuid "eabf9244-82f8-4d59-bcef-f55d21453580")
 	)
 	(pad "" np_thru_hole circle
 		(at 2.5 -3.5)
 		(size 2.2 2.2)
 		(drill 2.2)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask")
 		(uuid "97636974-7ea4-40e3-b014-1d26c84d16d2")
 	)
 	(pad "1" smd rect
@@ -194,4 +194,15 @@
 		(uuid "457cae45-b928-47b8-bf94-efa622203c42")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/yajim/Documents/KiCad_Library/Yamadori_KiCad_Library_3D/2DC-0415D200.step"
+		(offset
+			(xyz 4.5 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
