@@ -194,7 +194,7 @@
 		(uuid "457cae45-b928-47b8-bf94-efa622203c42")
 	)
 	(embedded_fonts no)
-	(model "../Yamadori_KiCad_Library_3D/2DC-0415D200.step"
+	(model "${YAMADORI_LIB_DIR}/Yamadori_KiCad_Library_3D/2DC-0415D200.step"
 		(offset
 			(xyz 4.5 0 0)
 		)
